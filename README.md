@@ -11,12 +11,14 @@ Intended Computer Science
 Work Experience
 ________________________________________________________________
 PHIND CENTER Palo Alto, CA
-Research Intern June 2019 - September 2019
+(Research Intern June 2019 - September 2019)
 ● Led and programed camera based urinalysis prototype Smart Toilet Project
 ● Implemented OpenCV, Numpy, and Matplotlib to software in python
 ● Designed urinalysis prototype (3D CAD)
+
+
 WESTERN REGIONAL RESEARCH CENTER (USDA, ARS) Albany, CA
-Lab Assistant June 2019 - August 2019
+(Lab Assistant June 2019 - August 2019)
 ● Collected maize samples from UC Gill Tract (field work)
 ● DNA sequenced and processed data for maize samples using PCR and gel
 electrophoresis
