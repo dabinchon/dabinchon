@@ -1,6 +1,4 @@
-dchon@berkeley.edu
-(510) 725-0112
-
+Email: dabin.chon@gmail.com
 
 Education
 ________________________________________________________________
