@@ -4,7 +4,7 @@ dchon@berkeley.edu
 
 Education
 ________________________________________________________________
-UNIVERSITY OF CALIFORNIA, BERKELEY August 2021 - May 2026
+UNIVERSITY OF CALIFORNIA, BERKELEY (August 2021 - May 2026)
 Intended Computer Science
 
 
